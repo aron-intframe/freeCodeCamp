@@ -3083,7 +3083,7 @@
       "lab-spinal-case-converter": {
         "title": "Implement a Spinal Case Converter",
         "intro": [
-          "In this lab, you will create a function that converts a given string to spinal case which is a style of writing where all letters are lowercase and separated by hyphens."
+          "In this lab, you will create a function that converts a given string to spinal case, which is a style of writing where all letters are lowercase and separated by hyphens."
         ]
       },
       "lab-pig-latin": {
@@ -5474,7 +5474,7 @@
       "lab-spinal-case-converter": {
         "title": "Implement a Spinal Case Converter",
         "intro": [
-          "In this lab, you will create a function that converts a given string to spinal case which is a style of writing where all letters are lowercase and separated by hyphens."
+          "In this lab, you will create a function that converts a given string to spinal case, which is a style of writing where all letters are lowercase and separated by hyphens."
         ]
       },
       "lab-pig-latin": {
@@ -5713,7 +5713,7 @@
       "workshop-countup": {
         "title": "Build a Countup",
         "intro": [
-          "In this workshop you will build a countdown function that returns an array of numbers counting up from 1 to a given number."
+          "In this workshop you will build a countup function that returns an array of numbers counting up from 1 to a given number."
         ]
       },
       "lab-countdown": {
@@ -6908,7 +6908,7 @@
       "workshop-breadth-first-search": {
         "title": "Implement the Breadth-First Search Algorithm",
         "intro": [
-          "In this workshop, you will use the bread-first search algorithm to generate all valid combinations of parentheses."
+          "In this workshop, you will use the breadth-first search algorithm to generate all valid combinations of parentheses."
         ]
       },
       "lab-depth-first-search": {
@@ -8010,7 +8010,7 @@
       "workshop-bookstore-page": {
         "title": "Build a Bookstore Page",
         "intro": [
-          "In this workshop, you will practice working with classes, ids and the <code>div</code> element by building a bookstore page."
+          "In this workshop, you will practice working with classes, ids, and the <code>div</code> element by building a bookstore page."
         ]
       },
       "lecture-understanding-how-html-affects-seo": {
@@ -10580,7 +10580,7 @@
       "workshop-breadth-first-search": {
         "title": "Implement the Breadth-First Search Algorithm",
         "intro": [
-          "In this workshop, you will use the bread-first search algorithm to generate all valid combinations of parentheses."
+          "In this workshop, you will use the breadth-first search algorithm to generate all valid combinations of parentheses."
         ]
       },
       "lab-depth-first-search": {
